@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/loulo/OneDrive - ESIEE Paris/Documents/IMAC/PROG & ALGO/S2/TD1/build",
+  "command": "C:\\Winlibs\\bin\\g++.exe -I\"C:/Users/loulo/OneDrive - ESIEE Paris/Documents/IMAC/PROG & ALGO/S2/TD1/src\" -g -std=gnu++20 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"C:\\Users\\loulo\\OneDrive - ESIEE Paris\\Documents\\IMAC\\PROG & ALGO\\S2\\TD1\\src\\main.cpp\"",
+  "file": "C:\\Users\\loulo\\OneDrive - ESIEE Paris\\Documents\\IMAC\\PROG & ALGO\\S2\\TD1\\src\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/loulo/OneDrive - ESIEE Paris/Documents/IMAC/PROG & ALGO/S2/TD1/build",
+  "command": "C:\\Winlibs\\bin\\g++.exe -I\"C:/Users/loulo/OneDrive - ESIEE Paris/Documents/IMAC/PROG & ALGO/S2/TD1/src\" -g -std=gnu++20 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\main.dir\\src\\fraction.cpp.obj -c \"C:\\Users\\loulo\\OneDrive - ESIEE Paris\\Documents\\IMAC\\PROG & ALGO\\S2\\TD1\\src\\fraction.cpp\"",
+  "file": "C:\\Users\\loulo\\OneDrive - ESIEE Paris\\Documents\\IMAC\\PROG & ALGO\\S2\\TD1\\src\\fraction.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\fraction.cpp.obj"
+},
+{
+  "directory": "C:/Users/loulo/OneDrive - ESIEE Paris/Documents/IMAC/PROG & ALGO/S2/TD1/build",
+  "command": "C:\\Winlibs\\bin\\g++.exe -I\"C:/Users/loulo/OneDrive - ESIEE Paris/Documents/IMAC/PROG & ALGO/S2/TD1/src\" -g -std=gnu++20 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\main.dir\\src\\utils.cpp.obj -c \"C:\\Users\\loulo\\OneDrive - ESIEE Paris\\Documents\\IMAC\\PROG & ALGO\\S2\\TD1\\src\\utils.cpp\"",
+  "file": "C:\\Users\\loulo\\OneDrive - ESIEE Paris\\Documents\\IMAC\\PROG & ALGO\\S2\\TD1\\src\\utils.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\utils.cpp.obj"
+}
+]

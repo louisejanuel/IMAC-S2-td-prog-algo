@@ -2,8 +2,8 @@
 #include <iostream>
 
 struct Fraction {
-    unsigned int numerator;
-    unsigned int denominator;
+    int numerator;
+    int denominator;
 
     void display();
 

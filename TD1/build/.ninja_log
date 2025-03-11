@@ -1,0 +1,6 @@
+# ninja log v6
+3	142	7630386065239612	C:/Users/loulo/OneDrive - ESIEE Paris/Documents/IMAC/PROG & ALGO/S2/TD1/build/CMakeFiles/cmake.verify_globs	96baaae9469a98bb
+143	756	7630386066659882	CMakeFiles/main.dir/src/main.cpp.obj	554abc74bcc254af
+207	813	7630386067317654	CMakeFiles/main.dir/src/utils.cpp.obj	32cd935b7f342eee
+813	1019	7630386073376242	C:/Users/loulo/OneDrive - ESIEE Paris/Documents/IMAC/PROG & ALGO/S2/TD1/bin/Debug/main.exe	6eda78abc1eefb09
+173	793	7630386066991963	CMakeFiles/main.dir/src/fraction.cpp.obj	a8e26a47d5d55791
