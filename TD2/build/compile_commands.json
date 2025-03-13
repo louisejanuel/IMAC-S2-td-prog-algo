@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/loulo/OneDrive - ESIEE Paris/Documents/IMAC/PROG & ALGO/S2/TD2/build",
+  "command": "C:\\Winlibs\\bin\\g++.exe -I\"C:/Users/loulo/OneDrive - ESIEE Paris/Documents/IMAC/PROG & ALGO/S2/TD2/src\" -g -std=gnu++20 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"C:\\Users\\loulo\\OneDrive - ESIEE Paris\\Documents\\IMAC\\PROG & ALGO\\S2\\TD2\\src\\main.cpp\"",
+  "file": "C:\\Users\\loulo\\OneDrive - ESIEE Paris\\Documents\\IMAC\\PROG & ALGO\\S2\\TD2\\src\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/loulo/OneDrive - ESIEE Paris/Documents/IMAC/PROG & ALGO/S2/TD2/build",
+  "command": "C:\\Winlibs\\bin\\g++.exe -I\"C:/Users/loulo/OneDrive - ESIEE Paris/Documents/IMAC/PROG & ALGO/S2/TD2/src\" -g -std=gnu++20 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\main.dir\\src\\token.cpp.obj -c \"C:\\Users\\loulo\\OneDrive - ESIEE Paris\\Documents\\IMAC\\PROG & ALGO\\S2\\TD2\\src\\token.cpp\"",
+  "file": "C:\\Users\\loulo\\OneDrive - ESIEE Paris\\Documents\\IMAC\\PROG & ALGO\\S2\\TD2\\src\\token.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\token.cpp.obj"
+}
+]
